@@ -7,4 +7,7 @@
 *.meta
 *.index
 *.data*
+
+# Ignore all extra files
+*.ini
 checkpoint
