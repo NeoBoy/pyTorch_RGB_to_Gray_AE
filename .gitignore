@@ -1,0 +1,10 @@
+# Ignore all picture files
+*.png
+*.jpg
+
+# Ignore all model files
+*.h5
+*.meta
+*.index
+*.data*
+checkpoint
